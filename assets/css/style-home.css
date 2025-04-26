@@ -43,6 +43,22 @@ main {
     width: 900px;
 }
 
+/* Versão tablet */
+@media (min-width: 769px) and (max-width: 1024px) {
+    main {
+        transition: 0.5s ease;
+        width: 700px;
+    }
+}
+
+/* Versão mobile */
+@media (max-width: 768px) {
+    main {
+        transition: 0.5s ease;
+        width: 400px;
+    }
+}
+
 main:hover {
     box-shadow: 4px 4px 4px 0px var(--preto_transparente);
     transition: 0.5s ease;
@@ -69,20 +85,4 @@ button:hover {
     background-color: var(--branco);
     color: var(--preto);
     transition: 0.3s ease;
-}
-
-/* Versão tablet */
-@media (min-width: 769px) and (max-width: 1024px) {
-    main {
-        transition: 0.5s ease;
-        width: 700px;
-    }
-}
-
-/* Versão mobile */
-@media (max-width: 768px) {
-    main {
-        transition: 0.5s ease;
-        width: 400px;
-    }
 }

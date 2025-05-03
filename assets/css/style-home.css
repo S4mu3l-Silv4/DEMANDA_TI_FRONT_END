@@ -13,7 +13,7 @@
     --branco: #ffffff;
     --cinza: #56544e;
     --preto: #000000;
-    --preto_transparente: #00000040;
+    --preto-transparente: #00000040;
 }
 
 /* Versão desktop */
@@ -60,7 +60,7 @@ main {
 }
 
 main:hover {
-    box-shadow: 4px 4px 4px 0px var(--preto_transparente);
+    box-shadow: 4px 4px 4px 0px var(--preto-transparente);
     transition: 0.5s ease;
 }
 

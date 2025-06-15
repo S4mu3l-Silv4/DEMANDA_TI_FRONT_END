@@ -1,6 +1,6 @@
 # Projeto formulário da Praxis:
 
-  Este site foi criado por https://github.com/S4mu3l-Silv4 como um projeto pessoal, objetivando praticar e demonstrar as minhas habilidades em programação front-end.
+  Este site foi criado individualmente por https://github.com/S4mu3l-Silv4 como um projeto avaliativo para a Praxis Empresa Jr., objetivando praticar e demonstrar as minhas habilidades em programação front-end.
   <br>
   <br>
 ## Site no ar:

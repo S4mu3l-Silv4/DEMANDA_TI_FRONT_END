@@ -1,6 +1,6 @@
 # DEMANDA_TI_FRONT_END:
 
-  Este formulário foi desenvolvido individualmente por https://github.com/S4mu3l-Silv4 como um projeto avaliativo para a Praxis Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em programação front-end.
+  Esta demanda foi desenvolvida como um projeto avaliativo para a Praxis - Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em HTML, CSS e JavaScript.
   <br>
   <br>
 ## Site no ar:

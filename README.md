@@ -1,6 +1,6 @@
 # DEMANDA_TI_FRONT_END:
 
-  Esta demanda foi desenvolvida como um projeto avaliativo para a Praxis - Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em HTML, CSS e JavaScript.
+  Esta demanda foi desenvolvida como um projeto avaliativo para a Praxis - Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em front-end.
   <br>
   <br>
 ## Site no ar:
